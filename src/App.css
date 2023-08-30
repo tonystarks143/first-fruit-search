@@ -12,7 +12,21 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.container{
+  padding: 0px 0px 0px 346px;
+}
+.load{
+  
+  padding: 0px 0px 0px 346px;
+}
+.col-sm-9 {
+  width: 101%;
+}
 
+
+.ant-spin {
+  font-size: 60px; /* Adjust the font-size to increase or decrease the size */
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
